@@ -18,4 +18,4 @@ try:
         print(" -> ".join(map(str, sequence)))
         print("總共步數：", steps)
 except ValueError:
-    print("請輸入有效的正整數。")
+    print("請輸入有效的正整數")
